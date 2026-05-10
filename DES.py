@@ -1,4 +1,4 @@
-# pip install pycyptodome
+# pip install pycyptodome install this to create enviroment
 
 from Crypto.Cipher import DES
 
